@@ -1,7 +1,7 @@
 # Joint Beamforming and Speaker-Attributed ASR for Real Distant-Microphone Meeting Transcription
 
 This repository collects code and scripts used in the paper  
-**"Joint Beamforming and Speaker-Attributed ASR for Real Distant-Microphone Meeting Transcription."**
+[**"Joint Beamforming and Speaker-Attributed ASR for Real Distant-Microphone Meeting Transcription."**](https://eusipco2025.org/wp-content/uploads/pdfs/0000336.pdf)
 
 It includes the full data generation, dereverberation model training, and speaker-attributed ASR pipelines based on real AMI meeting data.
 
@@ -88,7 +88,7 @@ If you find this work helpful, please consider citing the original paper.
   author={Cui, Can and Sheikh, Imran and Sadeghi, Mostafa and Vincent, Emmanuel},
   booktitle={IEEE the European Signal Processing Conference (EUSIPCO)},
   year={2025},
-  pages={336-340}
+  pages={336--340}
 }
 ```
 ---
