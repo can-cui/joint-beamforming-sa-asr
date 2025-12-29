@@ -85,8 +85,8 @@ If you find this work helpful, please consider citing the original paper.
 ```bibtex
 @inproceedings{cui2025joint,
   title={Joint Beamforming and Speaker-Attributed ASR for Real Distant-Microphone Meeting Transcription,
-  author={Cui, Can and Imran, Sheikh and Sadeghi, Mostafa and Vincent, Emmanuel},
-  booktitle={IEEE the European Signal Processing Conference (EUSIPCO), September 2025},
+  author={Cui, Can and Sheikh, Imran and Sadeghi, Mostafa and Vincent, Emmanuel},
+  booktitle={IEEE the European Signal Processing Conference (EUSIPCO)},
   year={2025},
   pages={336-340}
 }
